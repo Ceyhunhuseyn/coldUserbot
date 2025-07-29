@@ -1,0 +1,14 @@
+telethon
+qrcode
+googletrans
+art
+matplotlib
+pillow
+pydub
+beautifulsoup4
+yt-dlp
+requests
+psutil
+pytz
+openai
+html5lib
